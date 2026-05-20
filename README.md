@@ -94,9 +94,27 @@ Open to collaborating on AI, Cybersecurity, Full Stack & Embedded Systems projec
 * 🎓 Sahayak — AI Teaching Assistant for multi-grade classrooms
 * 🎮 Hunters & Treasures — Interactive game focused on UX & engagement
 
+
+
+# 📈 Contribution Activity
+
+[![Dharini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0niexdh\&theme=tokyo-night)](https://github.com/ph0niexdh)
+
 ---
 
-# 🧩 Interactive Puzzle
+
+# ✨ Quote
+
+> “That brain of mine is something more than merely mortal; as time will show.”
+> — Ada Lovelace
+
+---
+
+![](https://komarev.com/ghpvc/?username=ph0niexdh\&style=flat-square\&color=blueviolet)
+
+---
+
+# ⚡ Logic Break
 
 ```python
 def decode():
@@ -115,19 +133,3 @@ Caesar Cipher 👀
 </details>
 
 ---
-
-# 📈 Contribution Activity
-
-[![Dharini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0niexdh\&theme=tokyo-night)](https://github.com/ph0niexdh)
-
----
-
-
-# ✨ Quote
-
-> “That brain of mine is something more than merely mortal; as time will show.”
-> — Ada Lovelace
-
----
-
-![](https://komarev.com/ghpvc/?username=ph0niexdh\&style=flat-square\&color=blueviolet)
