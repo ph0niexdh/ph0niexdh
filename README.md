@@ -122,13 +122,6 @@ Caesar Cipher 👀
 
 ---
 
-# ⚡ GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ph0niexdh\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ph0niexdh\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 # ✨ Quote
 
