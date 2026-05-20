@@ -8,10 +8,11 @@ Open to collaborating on AI, Cybersecurity, Full Stack & Embedded Systems projec
 
 # 🌐 Socials:
 
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:dharinikh04@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/dharinikh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dharini-kh-16423a32a/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/DhariniKHnn)
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:dharinikh04@gmail.com)
+
 
 ---
 
